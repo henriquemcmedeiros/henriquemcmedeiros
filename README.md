@@ -1,4 +1,4 @@
-## Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, Eu sou o Henrique Medeiros, estudante de ciência da computação e entusiasta de tecnologia!
+## Olá!, Eu sou o Henrique Medeiros, estudante de ciência da computação e entusiasta de tecnologia!
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=henriquemcmedeiros&color=yellow" alt="Profile views" /> </p>-->
 <div align="center">
   <a href="https://github.com/henriquemcmedeiros">
